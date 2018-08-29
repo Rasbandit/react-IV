@@ -1,0 +1,15 @@
+- Explain what routing is.
+- Explain what hash routing is.
+- import hashrouter to app.js
+- all routing must be within hashrouter.
+- import Route and have it link to a component.
+- bring in another route and show the issues with conflicting router names.
+- import Link and use to
+- show how you can use component and render to display content
+- display a list of users
+- url parameters
+- show nested routes for users and selected users
+- show switch and how it ensures only one route and how order matters
+- using props.history.push
+
+- build pokemon API

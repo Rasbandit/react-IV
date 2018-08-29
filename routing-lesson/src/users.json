@@ -1,0 +1,121 @@
+[{
+  "id": 1,
+  "first_name": "Gage",
+  "last_name": "Churm",
+  "email": "gchurm0@livejournal.com",
+  "favorite_color": "#0ce5d5"
+}, {
+  "id": 2,
+  "first_name": "Hope",
+  "last_name": "Meads",
+  "email": "hmeads1@answers.com",
+  "favorite_color": "#62a32e"
+}, {
+  "id": 3,
+  "first_name": "Pascal",
+  "last_name": "Greensides",
+  "email": "pgreensides2@yale.edu",
+  "favorite_color": "#27c4f0"
+}, {
+  "id": 4,
+  "first_name": "Jaclin",
+  "last_name": "Tomaini",
+  "email": "jtomaini3@over-blog.com",
+  "favorite_color": "#953d6e"
+}, {
+  "id": 5,
+  "first_name": "Avis",
+  "last_name": "Belliard",
+  "email": "abelliard4@slashdot.org",
+  "favorite_color": "#70457d"
+}, {
+  "id": 6,
+  "first_name": "Barnie",
+  "last_name": "Slucock",
+  "email": "bslucock5@thetimes.co.uk",
+  "favorite_color": "#3f54d5"
+}, {
+  "id": 7,
+  "first_name": "Floria",
+  "last_name": "Jordine",
+  "email": "fjordine6@wix.com",
+  "favorite_color": "#1b6665"
+}, {
+  "id": 8,
+  "first_name": "Hugh",
+  "last_name": "Brabbins",
+  "email": "hbrabbins7@csmonitor.com",
+  "favorite_color": "#bfbda4"
+}, {
+  "id": 9,
+  "first_name": "Odele",
+  "last_name": "Jopling",
+  "email": "ojopling8@wsj.com",
+  "favorite_color": "#d76513"
+}, {
+  "id": 10,
+  "first_name": "Iosep",
+  "last_name": "Polsin",
+  "email": "ipolsin9@creativecommons.org",
+  "favorite_color": "#196e6e"
+}, {
+  "id": 11,
+  "first_name": "Glennis",
+  "last_name": "Piscopo",
+  "email": "gpiscopoa@timesonline.co.uk",
+  "favorite_color": "#a188cd"
+}, {
+  "id": 12,
+  "first_name": "Julie",
+  "last_name": "Befroy",
+  "email": "jbefroyb@timesonline.co.uk",
+  "favorite_color": "#de82e0"
+}, {
+  "id": 13,
+  "first_name": "Verene",
+  "last_name": "Fulton",
+  "email": "vfultonc@elpais.com",
+  "favorite_color": "#6f1ceb"
+}, {
+  "id": 14,
+  "first_name": "Charyl",
+  "last_name": "Manon",
+  "email": "cmanond@time.com",
+  "favorite_color": "#b3a3bb"
+}, {
+  "id": 15,
+  "first_name": "Trista",
+  "last_name": "Spurrier",
+  "email": "tspurriere@ebay.co.uk",
+  "favorite_color": "#0a8759"
+}, {
+  "id": 16,
+  "first_name": "Bernardine",
+  "last_name": "Vaughn",
+  "email": "bvaughnf@illinois.edu",
+  "favorite_color": "#d09b9e"
+}, {
+  "id": 17,
+  "first_name": "Rhona",
+  "last_name": "Alans",
+  "email": "ralansg@addthis.com",
+  "favorite_color": "#910eec"
+}, {
+  "id": 18,
+  "first_name": "Bordie",
+  "last_name": "Kmieciak",
+  "email": "bkmieciakh@unicef.org",
+  "favorite_color": "#919fc5"
+}, {
+  "id": 19,
+  "first_name": "Keeley",
+  "last_name": "Penddreth",
+  "email": "kpenddrethi@apache.org",
+  "favorite_color": "#a6a99d"
+}, {
+  "id": 20,
+  "first_name": "Manya",
+  "last_name": "Biddle",
+  "email": "mbiddlej@printfriendly.com",
+  "favorite_color": "#f4959c"
+}]
